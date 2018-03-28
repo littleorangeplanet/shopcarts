@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this file is created under branch master, I now edited under master
+=======
+I create the file under master, and then merge branch_1 to master, but now I open it under branch_1, it's empty, wierd...
+>>>>>>> branch_1
